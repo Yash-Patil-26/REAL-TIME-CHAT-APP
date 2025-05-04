@@ -1,4 +1,19 @@
 # REAL-TIME-CHAT-APP
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : YASH MAHENDRA PATIL
+
+*INTERN ID* : CT04DA247
+
+*DOMAIN* : FRONTEND WEB DEVELOPMENT
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH
+
+*OUTPUT* : 
+
+*DESCRIPTION* : 
 
 1. Introduction
  This project is a real-time chat application built using React.js. It allows users to send and receive messages instantly, providing a seamless communication experience.
